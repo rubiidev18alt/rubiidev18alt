@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @rubiidev18alt
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate on small projects that don't need my main
+
   ![Static Badge](https://img.shields.io/badge/main%3A-Rubiidev--18-red)
 
 <!---
