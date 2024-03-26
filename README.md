@@ -1,3 +1,5 @@
+https://solo.to/randiyt
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+Im+Rubiidev's+alt!)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @rubiidev18alt
